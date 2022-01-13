@@ -17,7 +17,7 @@
             </div>
 
             <div id="coba" class="nivo-html-caption">
-                <p><a  href="home.php"><span>Mulai Berbelanja</span></a></p>  <br>
+                <p><a  href="home.php"><span>Ayo Berbelanja</span></a></p>  <br>
                  
             </div>
 

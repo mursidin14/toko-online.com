@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Toko Online Batik</title>
+  <title>Toko Online</title>
   <link rel="stylesheet" type="text/css" href="plugin/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="asset/css/main.css">
   <link rel="icon" type="image/gif/png" href="asset/img/Title.png">

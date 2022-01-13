@@ -110,8 +110,6 @@ if($belumAda==0){
 </div>
 ';
 }
-
-
  ?>
 
 <?php include('component/footer.php'); ?>

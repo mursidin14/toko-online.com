@@ -25,7 +25,7 @@
         <table class="table">
           <thead>
             <tr>
-              <h3 style="font-family: Forte; color:"><strong>Keranjang Belanja</strong></h3>
+              <h3 style="font-family: Forte; color:"><strong>Keranjang Belanja Bos</strong></h3>
             </tr>
           </thead>
           <tbody>

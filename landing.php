@@ -15,18 +15,11 @@
                 <img src="asset/img/2.png" data-thumb="asset/img/2.png" alt="" title="#coba"/>
                 <img src="asset/img/3.png" data-thumb="asset/img/3.png" alt="" title="#coba" />
             </div>
-
             <div id="coba" class="nivo-html-caption">
-                <p><a  href="home.php"><span>Ayo Berbelanja</span></a></p>  <br>
-                 
+                <p><a  href="home.php"><span>Belanja Yuk</span></a></p>  <br>
             </div>
-
-           
         </div>
     </div>
-
-    
-
 
     <script type="text/javascript" src="plugin/NivoCustom/jquery-1.9.0.min.js"></script>
     <script type="text/javascript" src="plugin/NivoCustom/jquery.nivo.slider.js"></script>
@@ -36,9 +29,6 @@
         });
     </script>
     <script type="text/javascript" >
-  
-
-
 </script>
 </body>
 </html>

@@ -25,7 +25,7 @@
 
 .id-user{
   width:5vw !important; 
-  /*background-color: green;*/
+  /*background-color: slider green;*/
 }
 .id-barang{
   width:5vw !important; 
@@ -136,7 +136,7 @@ textarea{
   position: fixed;
   width: 5vw;
   height:8vh;
-  background-color: #a187c1;
+  /* background-color: #a187c1; */
   bottom: 3vh;
   right: 1vw;
   border-radius: 10px;
@@ -148,7 +148,6 @@ textarea{
 
 .box-up:hover{
   opacity: 0.6;
-  background-color: 
 }
 
 .box-up .btn span{

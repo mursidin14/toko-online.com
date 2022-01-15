@@ -8,7 +8,7 @@
       </div>
       
       <div class="col-xs-3 col-xs-offset-1 text-white">
-        <h3 style="font-family:Cooper Std Black">Hubungi jumrini</h3>
+        <h3 style="font-family:Cooper Std Black">Hubungi jumriani</h3>
         <hr>
         <a href="https://www.facebook.com/" target="_blank"><img style="width: 40px; height: 40px; margin-right: 1vw;" src="asset/img/facebook.png"></a>
         <a href="https://www.youtube.com/" target="_blank"><img style="width: 40px; height: 40px; margin-right: 1vw;" src="asset/img/youtube.png"></a>

@@ -4,9 +4,9 @@
   
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="home.php">
-        <img style="width:14vw; height:7vh; padding-top:0px;" alt="Brand" src="asset/img/Brand1.png">
-      </a>
+      <a class="navbar-brand text-white" href="home.php">
+        JUM SHOPE
+      </a> 
     </div>
 
     <ul class="nav navbar-nav navbar-right" >
@@ -117,7 +117,7 @@
 <div class="container-fluid kategori">
   <div class="row">
     <div class="col-xs-2 col-xs-offset-2">
-        <a href="home.php"><img style="width:14vw; height:7vh; padding-top:2vh;" alt="Brand" src="asset/img/Brand1.png"></a>
+        <a class="navbar-brand text-white" href="home.php">JUM SHOPE</a>
     </div>
     <div class="col-xs-6">
       <ul class="nav nav-pills kategori2">
@@ -128,9 +128,9 @@
             </ul>
 
         </li>
-        <li><a data-toggle="pill" href="#couple">Couple</a></li>
+        <li><a data-toggle="pill" href="#couple">Pasangan</a></li>
         <li><a data-toggle="pill" href="#anak" >Anak-anak</a></li>
-        <li><a data-toggle="pill" href="#sarimbit">Sarimbit</a></li>
+        <li><a data-toggle="pill" href="#sarimbit">Keluarga</a></li>
       </ul>
     </div>
   </div>

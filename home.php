@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Toko Online Batik</title>
+  <title>Toko Online JUM</title>
   <link rel="stylesheet" type="text/css" href="plugin/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="asset/css/main.css">
   <link rel="icon" type="image/gif/png" href="asset/img/Title.png">
@@ -14,15 +14,11 @@
 
 <?php include('component/nav.php'); ?>
 <div class="container-fluid" id="isi" >
-  
-
   <div class="row">
     <div class="col-xs-2 col-xs-offset-5" id="produk-laris">
-      <h3 style="font-family: Blacksword; font-size:2.2em;"><strong>Produk Batik</strong></h3>
+      <h3 style="font-family: Blacksword; font-size:2.2em;"><strong>Produk</strong></h3>
     </div>
   </div>
-  
-
 
   <!-- Laman Produk-->
   
@@ -81,7 +77,7 @@
                   <button type="button" class="btn btn-info disabled">Masukkan Keranjang</button>
                 ';
               }
-              echo '
+              echo'
             </div>
           </div>
         </div>
@@ -95,17 +91,17 @@
     <div class="container-fluid" id="paging">
       <div class="paging">
       <?php 
-      if($left_rec < $limit){
-          $last = $page - 2;
-          echo "<a href = \"?page=$last\"><button type='button' class='btn btn-primary left'>Previous</button></a>";
-        }else if($page > 0){
-          $last = $page - 2;
-          echo "<a href = \"?page=$last\"><button type='button' class='btn btn-primary left'>Previous</button></a>";
-          echo "<a href = \"?page=$page\"><button type='button' class='btn btn-primary right'>Next</button></a>";
-        }else if( $page == 0 ) {
-          echo "<a href = \"?page=$page\"><button type='button' class='btn btn-primary right'>Next</button></a>";
-        }
-       ?>
+      // if($left_rec < $limit){
+      //     $last = $page - 2;
+      //     echo "<a href = \"?page=$last\"><button type='button' class='btn btn-primary left'>Previous</button></a>";
+      //   }else if($page > 0){
+      //     $last = $page - 2;
+      //     echo "<a href = \"?page=$last\"><button type='button' class='btn btn-primary left'>Previous</button></a>";
+      //     echo "<a href = \"?page=$page\"><button type='button' class='btn btn-primary right'>Next</button></a>";
+      //   }else if( $page == 0 ) {
+      //     echo "<a href = \"?page=$page\"><button type='button' class='btn btn-primary right'>Next</button></a>";
+      //   }
+       ?> 
     </div>
     </div>
     </div>
@@ -116,7 +112,6 @@
       <ul>
       <?php 
         require("config/db.php");
-        
         $queryWanita = "SELECT * FROM tabel_produk WHERE kategori='wanita' LIMIT 0,4";
         $query_wanita = mysqli_query($conn,$queryWanita);
 

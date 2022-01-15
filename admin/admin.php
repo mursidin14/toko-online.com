@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Laman Admin</title>
+  <title>Admin</title>
   <link rel="stylesheet" type="text/css" href="../plugin/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="../asset/css/admin.css">
 </head>
@@ -17,7 +17,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-2" id="sideLeft">
-      <h4><strong>Administrator</strong></h4>
+      <h4><strong>administrasi</strong></h4>
       <ul class="nav nav-pills nav-stacked" id="data">
         <li class="active"><a data-toggle="tab" href="#user">User</a></li>
         <li><a data-toggle="tab" href="#barang">Barang</a></li>
